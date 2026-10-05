@@ -1,0 +1,6 @@
+{
+  "name": "WaterlooQuest - KW Waterloo Admissions Guide & Chance Tracker",
+  "description": "Comprehensive Waterloo admissions portal and AI chance analyzer tailored for Kitchener-Waterloo region high school students. Explore all programs, prerequisites, AIF guidance, and upload your resume and myBlueprint to calculate admission odds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
